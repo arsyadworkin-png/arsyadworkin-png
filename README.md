@@ -13,7 +13,7 @@ Still learning, still making mistakes, and still enjoying the process.
 - Getting familiar with Git & GitHub
 - Exploring frontend frameworks (soon)
 
-#My Goals
+# My Goals
 - Build real projects, even small ones
 - Improve my problem-solving skills
 - Become a confident frontend developer
