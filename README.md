@@ -3,7 +3,6 @@
 
 Beginner **Frontend Developer**  
 Currently learning and growing step by step  
-
 I'm a beginner frontend developer who loves building simple and clean web interfaces.  
 Still learning, still making mistakes, and still enjoying the process.
 
@@ -20,7 +19,6 @@ Still learning, still making mistakes, and still enjoying the process.
 
 I believe consistency beats talent.  
 One commit a day is better than none.
-
 Feel free to check my repositories and follow my journey!
 
 <h1 align="left">Languages and Tools:</h1>
